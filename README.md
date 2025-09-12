@@ -33,9 +33,25 @@ The database consists of 5 main tables:
 ---
 
 ## How to Use
-Open a SQL database environment (e.g., MySQL Workbench).
-1. Run 01_schema.sql to create the tables.
-2. Run 02_inserts.sql to insert sample data.
-3. Run 03_queries.sql to explore insights and perform operations.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/fitness-club-database.git
+    cd fitness-club-database
+    ```
+2.  **Run the complete script in your MySQL environment:**
+    ```sql
+    SOURCE fitness_club_db_full.sql;
+    ```
+3.  **Explore the queries.**
+    1. Run 01_schema.sql to create the tables.
+    2. Run 02_inserts.sql to insert sample data.
+    3. Run 03_queries.sql to explore insights and perform operations.
+
+---
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
