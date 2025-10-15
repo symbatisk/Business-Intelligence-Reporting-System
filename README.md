@@ -1,4 +1,4 @@
-# Fitness Club Database (SQL Project)
+# Business Intelligence Reporting System (SQL Project)
 
 ##  Project Goal
 To design and implement a relational database for a fitness club to track its financial health, manage client memberships, and generate analytical reports for informed decision-making.
